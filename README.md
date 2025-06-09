@@ -187,7 +187,8 @@ Esto facilita encontrar y revisar cualquier prenda del inventario.
 ---
 
 ### 🔹 Eliminar Producto
-<img width="907" alt="image" src="https://github.com/user-attachments/assets/8a315987-ae73-4f81-9c22-b8dab60d619f" />
+<img width="509" alt="Captura de pantalla 2025-06-09 a la(s) 11 15 16 a m" src="https://github.com/user-attachments/assets/0b966d98-2364-4dbd-976f-29de735f24a9" />
+
 
 
 Funcionalidad para dar de baja un producto, eliminándolo del sistema si ya no se comercializa.  
@@ -195,6 +196,66 @@ Se puede confirmar la eliminación para evitar errores.
 Solo pide el id del menu para eliminarlo
 
 ---
+
+## 📖 Menú: Historial
+
+La sección **Historial** permite consultar de forma detallada todas las ventas realizadas en la boutique. Es una herramienta clave para el control interno, auditorías y análisis de desempeño.
+
+---
+
+### 🔹 Historial de Ventas
+
+Muestra un registro completo y ordenado de cada transacción realizada.  
+La tabla incluye la siguiente información por cada venta:
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/d7cdcfe9-f75f-42bd-9ba9-09902df01830" />
+
+
+- 🧾 **ID Venta**: Identificador único de la transacción.
+- 👩‍💼 **ID Cliente**: Cliente asociado a la compra.
+- 📅 **Fecha**: Día en que se realizó la venta.
+- 💰 **Total**: Monto total pagado.
+- 💳 **Método de Pago**: Efectivo, tarjeta, transferencia, etc.
+- 📌 **Estado**: Puede indicar si la venta fue completada, cancelada o en proceso.
+- 🧑‍💼 **ID Empleado**: Empleado responsable de realizar la venta.
+
+---
+## 🛒 Menú: Carrito de Compras
+
+La sección **Carrito de Compras** está diseñada para facilitar el proceso de venta de manera rápida y organizada. Es una herramienta esencial para el flujo de caja y la atención al cliente.
+<img width="1003" alt="image" src="https://github.com/user-attachments/assets/bf7e486b-7c41-4abe-b71f-dfba5957bc28" />
+
+
+### 🔹 Funcionalidades principales
+
+La interfaz del carrito incluye:
+
+#### 🔍 Buscador superior
+Permite buscar productos por nombre o ID, facilitando la selección rápida de artículos disponibles en el sistema.
+
+#### 📋 Tabla de productos disponibles
+
+La tabla muestra los siguientes campos:
+
+- 🆔 **ID**: Identificador del producto.
+- 🏷️ **Nombre**: Nombre de la prenda.
+- 💲 **Precio**: Precio unitario del producto.
+- 📦 **Stock**: Cantidad disponible en inventario.
+
+---
+
+### 🔘 Botones disponibles
+
+- ➕ **Agregar al carrito**: Añade el producto seleccionado a la venta actual.
+- 💳 **Finalizar compra**: Registra la venta en el sistema y actualiza el historial.
+- ❌ **Cerrar**: Sale del carrito sin realizar cambios o finaliza la sesión del proceso de venta.
+
+---
+## 🚪 Menú: Cerrar
+
+La opción **Cerrar** permite salir de la vista actual y regresar de forma segura al **Menú Principal** del sistema.
+
+---
+
 
 
 
