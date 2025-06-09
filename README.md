@@ -258,7 +258,7 @@ La opción **Cerrar** permite salir de la vista actual y regresar de forma segur
 ## 🎬 Demo del Proyecto
 
 🧵 Observa cómo funciona Novae en tiempo real:  
-[▶️ Ver video en YouTube]([https://www.youtube.com/watch?v=ID_DEL_VIDEO](https://youtu.be/2IuSjiku_OQ?si=HMtjPpHcWS3vUO1w))
+🔗 https://youtu.be/2IuSjiku_OQ?si=HMtjPpHcWS3vUO1w
 
 
 
