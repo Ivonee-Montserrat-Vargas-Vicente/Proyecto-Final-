@@ -27,5 +27,31 @@ En **Novae**, cada prenda está pensada para que la mujer se sienta **cómoda, s
 
 🔗 *Desarrollado con pasión para transformar la moda en una herramienta de confianza femenina.*
 
+----------------------------------------------------------
+## 🔐 Ventana de Inicio de Sesión (Login)
+
+La aplicación **Novae** comienza con una ventana de inicio de sesión que permite acceder de forma segura al sistema de ventas. Este módulo es esencial para proteger la información del negocio y garantizar que solo usuarios autorizados puedan acceder a las funcionalidades para ingresar el usuario es el correo y una contraseña.
+
+### 🧾 Características del Login
+
+- ✅ Validación de usuario y contraseña
+- 🔒 Seguridad básica con validaciones de entrada
+- ⚠️ Mensajes de error en caso de datos incorrectos
+
+
+### 🧩 Campos de entrada
+
+- 🆔 **Usuario (correo electrónico o nombre de usuario)**
+- 🔑 **Contraseña**
+- 🔘 **Botones:**
+  - `Aceptar` → Valida los datos e ingresa al sistema
+
+
+### 💡 Nota técnica
+
+> El login está desarrollado en Java utilizando `JFrame`, sin imágenes ni íconos externos, para mantener un diseño limpio y funcional, compatible con el resto de las ventanas del sistema.
+
+![Captura de pantalla 2025-06-09 092206](https://github.com/user-attachments/assets/1053edd2-72a9-48b3-9792-42b00db52a1d)
+
 
 
