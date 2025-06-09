@@ -11,7 +11,6 @@ Brindar ropa moderna, cómoda y elegante que resalte la autenticidad y seguridad
 
 ## 🛍️ ¿Qué ofrece Novae?
 
-- 👚 **Catálogo variado** de prendas para todos los estilos
 - 📦 **Gestión de inventario** eficiente y automatizada
 - 💳 **Opciones de pago modernas**: efectivo, tarjeta, transferencia
 - 🧾 **Registro de ventas y clientes** para control y seguimiento
@@ -37,7 +36,7 @@ La aplicación **Novae** comienza con una ventana de inicio de sesión que permi
 - ✅ Validación de usuario y contraseña
 - 🔒 Seguridad básica con validaciones de entrada
 - ⚠️ Mensajes de error en caso de datos incorrectos
--
+
 
 ### 🧩 Campos de entrada
 
