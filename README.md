@@ -73,8 +73,8 @@ Al ingresar credenciales válidas, se muestra el siguiente mensaje:
 
 | Rol          | Descripción                                                                 |
 |--------------|------------------------------------------------------------------------------|
-| 🛠️ Administrador | Accede a todas las funcionalidades del sistema: gestión de productos, usuarios, ventas y reportes. |
-| 💵 Cajero       | Tiene acceso limitado solo al módulo de ventas y emisión de tickets.     |
+| 🛠️ Administrador | Accede a todas las funcionalidades del sistema: gestión de productos, usuarios, ventas. |
+| 💵 Cajero       | Tiene acceso limitado a los productos solo puede visualizar,modificar y ver el carrito      |
 
 ### 🧭 Redirección según el rol
 
