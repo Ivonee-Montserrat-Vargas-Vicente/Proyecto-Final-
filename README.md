@@ -52,6 +52,8 @@ La aplicación **Novae** comienza con una ventana de inicio de sesión que permi
 > El login está desarrollado en Java utilizando `JFrame`, sin imágenes ni íconos externos, para mantener un diseño limpio y funcional, compatible con el resto de las ventanas del sistema.
 
 ![Captura de pantalla 2025-06-09 092206](https://github.com/user-attachments/assets/1053edd2-72a9-48b3-9792-42b00db52a1d)
+![image](https://github.com/user-attachments/assets/b88307b4-55cd-4fcd-9905-6e7767632c82)
+
 
 ------------------------
 ## 🔑 Acceso y Roles de Usuario
@@ -84,4 +86,20 @@ Al ingresar credenciales válidas, se muestra el siguiente mensaje:
 
 🔐 Esto permite una estructura más segura, organizada y orientada al control de accesos según la responsabilidad del personal.
 
+
+## 🛠️ Rol de Administrador
+
+El **Administrador** es el usuario con mayor nivel de acceso dentro del sistema **Novae**. Su función principal es gestionar y supervisar todas las operaciones clave del sistema, desde el control de productos hasta la administración de personal .
+
+### 📋 Funcionalidades del Administrador
+
+| Módulo                     | Descripción                                                                 |
+|----------------------------|-----------------------------------------------------------------------------|
+| 🧾 Gestión de Productos     | Agregar, editar, eliminar y visualizar productos en el inventario.          |
+| 📂 Categorías              | Crear y modificar categorías de productos (Ej: blusas, pantalones, etc.). |
+| 👤 Gestión de Usuarios     | Registrar y administrar cuentas de Cajeros.                               |
+| 📈 Reportes de Ventas      | Consultar reportes diarios, semanales o mensuales con filtros avanzados.  |
+| 🔍 Control de Stock        | Visualizar niveles de inventario          |
+| 🛒 Supervisión de Ventas   | Ver historial completo de ventas realizadas por los cajeros.              |
+| ⚙️ Configuración del sistema | Ajustes generales del sistema, descuentos y parámetros globales.          |
 
