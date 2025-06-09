@@ -51,7 +51,7 @@ La aplicación **Novae** comienza con una ventana de inicio de sesión que permi
 > El login está desarrollado en Java utilizando `JFrame`, sin imágenes ni íconos externos, para mantener un diseño limpio y funcional, compatible con el resto de las ventanas del sistema.
 
 ![Captura de pantalla 2025-06-09 092206](https://github.com/user-attachments/assets/1053edd2-72a9-48b3-9792-42b00db52a1d)
-![image](https://github.com/user-attachments/assets/b88307b4-55cd-4fcd-9905-6e7767632c82)
+
 
 
 ------------------------
@@ -64,7 +64,7 @@ Una vez que el usuario inicia sesión correctamente en **Novae**, el sistema mue
 Al ingresar credenciales válidas, se muestra el siguiente mensaje:
 
 ![Captura de pantalla 2025-06-09 093301](https://github.com/user-attachments/assets/34396814-c458-469c-9642-e2eb83cc21ca)
-
+![image](https://github.com/user-attachments/assets/b88307b4-55cd-4fcd-9905-6e7767632c82)
 
 
 ---
