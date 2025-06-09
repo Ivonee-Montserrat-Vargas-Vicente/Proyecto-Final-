@@ -104,6 +104,99 @@ El **Administrador** es el usuario con mayor nivel de acceso dentro del sistema 
 | ⚙️ Configuración del sistema | Ajustes generales del sistema, descuentos y parámetros globales.          |
 
 
-## Menu
-En el
+## 📌 Menú Principal: **Inicio**
+
+El menú **Inicio** es la primera pantalla del sistema y actúa como puerta de entrada a las funcionalidades del sistema. Está compuesto por las siguientes secciones:
+
+### 🔹 Información
+
+Aquí se presenta una breve introducción a la empresa y su propósito:
+
+<img width="610" alt="image" src="https://github.com/user-attachments/assets/2132ec47-8d69-469d-84f6-a65a8010733d" />
+
+- 🌐 Horario(Fecha y hora de atención)
+- 📞 Información de contacto (Direccion, correo, telefono y redes sociales).
+
+### 🔹 Registro de Usuario
+
+Esta sección permite que nuevas clientas o usuarios del sistema se registren de forma sencilla:
+<img width="470" alt="image" src="https://github.com/user-attachments/assets/0307f6c8-4cbf-410d-96a1-851170ccb03c" />
+
+- 🧍‍♀️ **Formulario de registro** con los siguientes campos:
+  - Nombre
+  - Apellido
+  - Usuario (Correo electrónico)
+  - Contraseña
+  - Confirmación de contraseña
+ - Tipo de usuario
+- ✅ Mensajes de éxito o error tras completar el registro.
+
+  ## 🛍️ Menú: Producto
+
+La sección **Producto** permite una gestión completa del inventario de ropa, asegurando que cada prenda esté debidamente registrada, actualizada y disponible para su venta.
+
+Esta sección incluye las siguientes funcionalidades:
+<img width="418" alt="image" src="https://github.com/user-attachments/assets/5b513dba-fd9e-4ea9-ad17-4a06fb07988c" />
+
+
+### 🔹 Registrar Producto
+<img width="607" alt="Captura de pantalla 2025-06-09 a la(s) 11 09 30 a m" src="https://github.com/user-attachments/assets/87428109-697f-4480-a0d1-2fa2663e3682" />
+
+Formulario para agregar nuevos productos al inventario. Los campos disponibles son:
+
+- 🏷️ **Nombre**: Nombre del producto.
+- 📝 **Descripción**: Detalles del producto (tipo de prenda, estilo, etc.).
+- 🗂️ **Categoría**: Clasificación (Ej: Blusas, Pantalones, Vestidos, etc.).
+- 📏 **Talla**: Tallas disponibles (S, M, L, XL, etc.).
+- 🎨 **Color**: Color principal del producto.
+- 💲 **Precio**: Precio unitario.
+- 📦 **Stock**: Cantidad disponible.
+- 🧾 **Proveedor**: Nombre del proveedor.
+- 📌 **Estado**: Activo o Inactivo (para descontinuados o fuera de temporada).
+
+**Botones disponibles:**
+- ✅ `Registrar`
+- ❌ `Cancelar`
+
+---
+
+### 🔹 Modificar Producto
+
+Permite editar los datos de un producto previamente registrado.  
+Se pueden actualizar todos los campos mencionados arriba y guardar los cambios fácilmente.
+<img width="607" alt="image" src="https://github.com/user-attachments/assets/5c5ad9ae-e33d-45d3-bf7c-ac371f4548a7" />
+
+
+---
+
+### 🔹 Visualizar Productos
+<img width="907" alt="image" src="https://github.com/user-attachments/assets/fe1a8c5d-2234-4766-9e34-86f6104a6c2b" />
+
+Muestra una tabla con todos los productos disponibles, incluyendo filtros por:
+
+- Categoría
+- Talla
+- Color
+- Precio
+- Stock
+- Estado
+- Proveedor
+- Nombre
+
+Esto facilita encontrar y revisar cualquier prenda del inventario.
+
+---
+
+### 🔹 Eliminar Producto
+<img width="907" alt="image" src="https://github.com/user-attachments/assets/8a315987-ae73-4f81-9c22-b8dab60d619f" />
+
+
+Funcionalidad para dar de baja un producto, eliminándolo del sistema si ya no se comercializa.  
+Se puede confirmar la eliminación para evitar errores.
+Solo pide el id del menu para eliminarlo
+
+---
+
+
+
 
