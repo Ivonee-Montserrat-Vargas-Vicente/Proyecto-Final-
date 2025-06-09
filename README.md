@@ -103,3 +103,7 @@ El **Administrador** es el usuario con mayor nivel de acceso dentro del sistema 
 | 🛒 Supervisión de Ventas   | Ver historial completo de ventas realizadas por los cajeros.              |
 | ⚙️ Configuración del sistema | Ajustes generales del sistema, descuentos y parámetros globales.          |
 
+
+## Menu
+En el
+
